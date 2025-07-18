@@ -127,5 +127,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # React dev server
-    "https://random-quotes-machine-nine.vercel.app",  # Your deployed frontend
+    "https://random-quotes-frontend.vercel.app/",  # Your deployed frontend
 ]
